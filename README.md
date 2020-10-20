@@ -4,7 +4,7 @@ Runs simulations of the card game War.
 To Run: 
 a) javac *.java
 
-b) java Simulation 100
+b) java Simulation 100 (this number can be changed to any number of simulations you would like)
 
 References:
 
